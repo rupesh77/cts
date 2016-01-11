@@ -1,4 +1,4 @@
 hi
 hello
 this is to merge master branch.
-this is to merge master branchfor line 2.
+this is to merge master branchfor line 2. line 3 for checking purpose.
